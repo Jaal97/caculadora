@@ -1,0 +1,124 @@
+body, html
+{
+    background: honeydew;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+h1
+{
+    
+    background: greenyellow;
+    border-radius: 20px;
+    color: blue;
+    width: 630px;
+    font-size: 50px;
+    font-weight: 640;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+    
+    
+}
+
+#numw
+{
+    
+    background: rgb(205, 245, 232);
+    width: 120px;
+    border-style: double;
+    border-color: grey;
+   
+
+
+}
+
+#envia
+{
+    background-color: gainsboro;
+    width: 80px;
+    color: black;
+    font-weight: 900;
+    border-bottom: 3;
+    border-color: black;
+}
+
+.parrafin
+{
+
+    color: MediumBlue;
+    background: rgb(191, 250, 191);
+    border-radius: 15px;
+    border-color: gray;
+    width: 460px;
+    font-size: 24px;
+    font-style: initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: initial;
+    
+
+}
+
+#numh
+{
+    background: rgb(200, 212, 209);
+    width: 120px;
+    border-style: double;
+    border-color: rgb(95, 93, 93);
+    position: inherit;
+}
+
+#enviah
+{
+    background: rgb(65, 228, 65);
+    width: 80px;
+    color: black;
+    font-weight: 800;
+    border-color: gray;
+}
+
+.parrafon
+{
+    color: Mediumblue;
+    background: rgb(191, 250, 191);
+    width: 460px;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+
+.resultado__mostrar
+{
+    background: azure;
+    width: 450px;
+    border-radius: 20px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.resultado__final
+{
+    background: PaleGreen;
+    width: 360px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-weight: 500;
+    border-radius: 20px;
+}
+
+.container
+{
+    text-align: left;
+    position: absolute;
+    left: 30%;
+}
